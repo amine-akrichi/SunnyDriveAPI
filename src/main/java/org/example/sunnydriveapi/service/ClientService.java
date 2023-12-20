@@ -1,6 +1,5 @@
 package org.example.sunnydriveapi.service;
 
-import com.sun.net.httpserver.Authenticator;
 import jakarta.transaction.Transactional;
 import org.example.sunnydriveapi.model.Client;
 import org.example.sunnydriveapi.repository.ClientRepository;
